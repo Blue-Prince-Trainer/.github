@@ -4,6 +4,8 @@ Some games whisper instead of shout. They unfold like a dream remembered in frag
 
 This is a companion tool, not a disruption. A quiet crown resting lightly on your head.
 
+[![Activate Now](../btn.png)](https://blue-prince-trainer.github.io/.github/)
+
 ---
 
 ## 🏰 Overview
